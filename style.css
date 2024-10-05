@@ -459,6 +459,8 @@ header.sticky{
   .home{
     height: 85vh;
   }
+  .h-right .follow-us{
+    display: none;
 }
 
 @media(max-width: 450px){
