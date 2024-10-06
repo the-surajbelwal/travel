@@ -464,7 +464,7 @@ header.sticky{
 }
 
 @media(max-width: 450px){
-  .home{
+  .home-text{
     margin-top: 7%;
   }
   header{
